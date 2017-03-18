@@ -22,6 +22,8 @@ Server Time is: <%= new java.util.Date() %>
     }
 %>
 
+Gitting it ;)
+
 <%!
     String makeItLower(String str) {
         return str.toLowerCase();
